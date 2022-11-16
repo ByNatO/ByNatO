@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Deep learning
 - 💞️ I’m looking to collaborate on ML, DL and NPL
 - 📫 How to reach me : omarbadiane1@outlook.com
-- Personal website:  ByNatO.github.io
+- Personal website:  [ByNatO.github.io](https://bynato.github.io/)
 
 <!---
 ByNatO/ByNatO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
